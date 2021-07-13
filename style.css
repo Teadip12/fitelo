@@ -1,0 +1,72 @@
+.topcontainer {
+   position:fixed;
+   width: 100%;
+}
+h1 {
+font-size: 3em;
+  color: #FFD523;
+}
+
+.favicon {
+  float: left;
+  margin-right: 10px;
+}
+.middle-container {
+  display:inline-block;
+}
+.bowl {
+  float:right;
+position: relative;
+  width: 30%;
+margin-left: 120px;
+border: none;
+}
+.introduction {
+  font-size: 4em;
+  padding-top: 10%;
+}
+.new-page {
+  color: red;
+  padding-top: 70px;
+}
+.title {
+  font-size: 3em;
+}
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #f0f0f0;
+  font-size: 19px;
+  background: #d97b34;
+  padding: 16px 20px 16px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fce23c;
+  text-decoration: none;
+}
+
+
+
+
+.butn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #de2911;
+  font-size: 19px;
+  background: #f5efeb;
+  padding: 16px 20px 16px 20px;
+  border: solid #e32619 2px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #f25218;
+  text-decoration: none;
+}
